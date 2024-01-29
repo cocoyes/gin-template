@@ -13,3 +13,8 @@
 2024-01-29 12:22:27.911	INFO	config/logger.go:34	logger init success
 2024-01-29 12:22:27.920	INFO	snowflake/snowflake.go:26	snowflake node init success
 2024-01-29 12:22:30.596	INFO	config/mysql.go:113	database init success
+2024-01-29 12:22:56.000	INFO	config/logger.go:34	logger init success
+2024-01-29 12:22:56.009	INFO	snowflake/snowflake.go:26	snowflake node init success
+2024-01-29 12:22:58.654	INFO	config/mysql.go:113	database init success
+2024-01-29 12:22:58.754	INFO	config/redis.go:30	redis init success
+2024-01-29 12:22:58.756	INFO	router/routers.go:42	init router success
