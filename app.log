@@ -1,0 +1,15 @@
+2024-01-29 12:15:06.222	INFO	config/logger.go:34	logger init success
+2024-01-29 12:15:06.232	INFO	snowflake/snowflake.go:26	snowflake node init success
+2024-01-29 12:15:08.574	ERROR	config/mysql.go:72	failed to connect database ,err:dial tcp [::1]:3308: connectex: No connection could be made because the target machine actively refused it.
+2024-01-29 12:15:47.108	INFO	config/logger.go:34	logger init success
+2024-01-29 12:15:47.118	INFO	snowflake/snowflake.go:26	snowflake node init success
+2024-01-29 12:15:47.215	ERROR	config/mysql.go:72	failed to connect database ,err:Error 1045 (28000): Access denied for user 'root'@'183.14.31.231' (using password: YES)
+2024-01-29 12:16:45.002	INFO	config/logger.go:34	logger init success
+2024-01-29 12:16:45.011	INFO	snowflake/snowflake.go:26	snowflake node init success
+2024-01-29 12:16:46.729	INFO	config/mysql.go:113	database init success
+2024-01-29 12:16:57.875	INFO	config/logger.go:34	logger init success
+2024-01-29 12:16:57.886	INFO	snowflake/snowflake.go:26	snowflake node init success
+2024-01-29 12:17:00.577	INFO	config/mysql.go:113	database init success
+2024-01-29 12:22:27.911	INFO	config/logger.go:34	logger init success
+2024-01-29 12:22:27.920	INFO	snowflake/snowflake.go:26	snowflake node init success
+2024-01-29 12:22:30.596	INFO	config/mysql.go:113	database init success
